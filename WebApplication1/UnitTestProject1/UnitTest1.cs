@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace UnitTestProject1
@@ -10,7 +10,6 @@ namespace UnitTestProject1
         public void TestMethod1()
         {
         }
-
 
         [TestMethod]
         public void TestMethod2()
